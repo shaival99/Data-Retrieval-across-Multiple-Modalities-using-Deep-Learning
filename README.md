@@ -1,6 +1,6 @@
 # Data Retrieval across Multiple Modalities using Deep Learning
 
-*Authors:* Vaidehi Pareshkumar Parikh, Shaival Sujalkumar Shah, Nidutt Nilay Bhuptani 
+*Authors:* Shaival Shah, Vaidehi Parikh, Nidutt Bhuptani
 
 ## Summary
 
